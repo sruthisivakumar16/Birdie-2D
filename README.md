@@ -18,4 +18,4 @@ You can checkout the game here - https://scratch.mit.edu/projects/320715597/
 
 ### SCREENSHOTS 
 
-<img src=/Screenshot (23).png />
+<img src=/screenshot.png />
