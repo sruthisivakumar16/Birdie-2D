@@ -14,3 +14,6 @@ _Dodge the pipes by pressing the space bar or the up arrow key to make Birdie fl
 Made with Scratch by MIT.
 
 You can checkout the game here - https://scratch.mit.edu/projects/320715597/
+
+
+### SCREENSHOTS 
