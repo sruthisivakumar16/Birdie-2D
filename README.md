@@ -13,6 +13,8 @@ _Dodge the pipes by pressing the space bar or the up arrow key to make Birdie fl
 
 Made with Scratch by MIT.
 
+Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations
+
 You can checkout the game here - https://scratch.mit.edu/projects/320715597/
 
 
